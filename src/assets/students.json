@@ -1,0 +1,22 @@
+[
+    {
+        "name":"Joseph M. Acaba",
+        "year":2004,
+        "group":19,
+        "status":"Enrolled",
+        "birthdate":"5/17/1967",
+        "birthPlace":"Inglewood, CA",
+        "undergraduateMajor":"English",
+        "photo": "http://www.collegebound.net/blog/wp-content/uploads/2011/10/shutterstock_85474711.jpg"
+    },
+    {
+        "name":"Emily Schlicter",
+        "year":2013,
+        "group":1,
+        "status":"Enrolled",
+        "birthdate":"7/2/1991",
+        "birthPlace":"Orange County, CA",
+        "undergraduateMajor":"Math",
+        "photo":"https://www.collegepineapple.com/wp-content/uploads/2016/09/college-study-tips.jpg"
+    }
+]
